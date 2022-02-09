@@ -1,0 +1,30 @@
+package StepDefinitions;
+
+public class GoogleLoginStepDefinitions {
+	
+	@Given("I launch the browser")
+	public void i_launch_the_browser() {
+	    // Write code here that turns the phrase above into concrete actions
+	    throw new io.cucumber.java.PendingException();
+	}
+
+	@Given("I launch the URL")
+	public void i_launch_the_url() {
+	    // Write code here that turns the phrase above into concrete actions
+	    throw new io.cucumber.java.PendingException();
+	}
+
+	@Then("I search for {string}")
+	public void i_search_for(String string) {
+	    // Write code here that turns the phrase above into concrete actions
+	    throw new io.cucumber.java.PendingException();
+	}
+
+	@Then("I verify if serach for {string} appears")
+	public void i_verify_if_serach_for_appears(String string) {
+	    // Write code here that turns the phrase above into concrete actions
+	    throw new io.cucumber.java.PendingException();
+	}
+	
+	
+}
